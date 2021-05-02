@@ -1,0 +1,13 @@
+RENCANA PEMBELAJARAN ALI
+1. Belajar Struktur Data Javascript
+2. Belajar Database
+3. Belajar Javascript
+   a. Syntax Dasar
+   b. Ajax
+   c. Json
+   d. Framework Js
+4. Belajar OOP php
+5. Belajar Framework Laravel
+6. Belajar Framework Code Igniter
+7. Belajar GitHub
+8. Belajar Resful Api
