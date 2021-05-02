@@ -1,13 +1,14 @@
 RENCANA PEMBELAJARAN ALI
 1. Belajar Struktur Data Javascript
 2. Belajar Database
-3. Belajar Javascript
+3. Belajar Github
+4. Belajar Javascript
    a. Syntax Dasar
-   b. Ajax
    c. Json
    d. Framework Js
-4. Belajar OOP php
-5. Belajar Framework Laravel
-6. Belajar Framework Code Igniter
-7. Belajar GitHub
+      a. Vue
+      b. React
+5. Belajar OOP php
+6. Belajar Framework Laravel
+7. Belajar Framework Code Igniter
 8. Belajar Resful Api
