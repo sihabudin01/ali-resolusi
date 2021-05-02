@@ -1,0 +1,4 @@
+Ali Resolusi
+-Konsisten belajar koding min 6jam hari
+-membuat projek sederhana pakai laravel
+-membuat projek sederhana pakai code igniter
